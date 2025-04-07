@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj": {}
+    "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj": {
+    "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj",
         "projectName": "NeonShooter.Core",
-        "projectPath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj",
+        "projectPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj",
         "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\obj\\",
+        "outputPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -67,21 +72,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj": {
+    "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
         "projectName": "NeonShooter.WindowsDX",
-        "projectPath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
+        "projectPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
         "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\obj\\",
+        "outputPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,8 +104,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj": {
-                "projectPath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj"
+              "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj": {
+                "projectPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj"
               }
             }
           }
@@ -110,7 +119,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -144,7 +154,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

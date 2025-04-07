@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonShooter.WindowsDX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd681d830be3a58056678a3fd4fa742aab3202f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonShooter.WindowsDX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonShooter.WindowsDX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

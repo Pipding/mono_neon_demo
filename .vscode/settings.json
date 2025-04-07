@@ -1,3 +1,11 @@
 {
-    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "files.exclude": {
+        "NDependOut": true,
+        "NeonShooter.Android": true,
+        "NeonShooter.DesktopGL": true,
+        "NeonShooter.iOS": true,
+        "NeonShooter.WindowsDX": true,
+        "NeonShooter.WindowsUWP": true
+    }
 }

@@ -254,19 +254,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ryan\\.nuget\\packages\\": {}
+    "C:\\Users\\Ryan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\NeonShooter\\NeonShooter.DesktopGL\\NeonShooter.DesktopGL.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.DesktopGL\\NeonShooter.DesktopGL.csproj",
       "projectName": "NeonShooter.DesktopGL",
-      "projectPath": "C:\\Users\\Ryan\\Desktop\\NeonShooter\\NeonShooter.DesktopGL\\NeonShooter.DesktopGL.csproj",
+      "projectPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.DesktopGL\\NeonShooter.DesktopGL.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan\\Desktop\\NeonShooter\\NeonShooter.DesktopGL\\obj\\",
+      "outputPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.DesktopGL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -280,8 +285,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ryan\\Desktop\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj": {
-              "projectPath": "C:\\Users\\Ryan\\Desktop\\NeonShooter\\NeonShooter.Core\\NeonShooter.Core.csproj"
+            "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj": {
+              "projectPath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Core\\NeonShooter.Core.csproj"
             }
           }
         }
@@ -295,7 +300,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -326,7 +332,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

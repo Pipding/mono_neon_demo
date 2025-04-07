@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZca7Ub03eY=",
+  "dgSpecHash": "DxUlmYqmlkY=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Ryan\\Desktop\\MonoGame.Samples\\NeonShooter\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.WindowsDX\\NeonShooter.WindowsDX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
     "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",

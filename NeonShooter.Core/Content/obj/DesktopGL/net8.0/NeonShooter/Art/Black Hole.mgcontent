@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Ryan/Desktop/NeonShooter/NeonShooter.Core/Content/Art/Black Hole.png</SourceFile>
+  <SourceFile>C:/Users/Ryan/Desktop/mono_neon_demo/NeonShooter.Core/Content/Art/Black Hole.png</SourceFile>
   <SourceTime>2025-02-22T11:20:43.9269221+00:00</SourceTime>
-  <DestFile>C:/Users/Ryan/Desktop/NeonShooter/NeonShooter.Core/Content/bin/DesktopGL/NeonShooter/Art/Black Hole.xnb</DestFile>
-  <DestTime>2025-02-22T14:08:46.6707125+00:00</DestTime>
+  <DestFile>C:/Users/Ryan/Desktop/mono_neon_demo/NeonShooter.Core/Content/bin/DesktopGL/NeonShooter/Art/Black Hole.xnb</DestFile>
+  <DestTime>2025-02-22T14:53:46.1687381+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T18:05:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

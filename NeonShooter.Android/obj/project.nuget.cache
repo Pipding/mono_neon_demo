@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3XuZRO76Xc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\mono_neon_demo\\NeonShooter.Android\\NeonShooter.Android.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net8.0-android"
+    }
+  ]
+}
