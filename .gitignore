@@ -1,3 +1,6 @@
 # Ignore build output folders
 **/obj/
 **/bin/
+
+highscore.txt
+/.idea/
