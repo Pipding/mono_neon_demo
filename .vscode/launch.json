@@ -12,25 +12,25 @@
         //     "port": 10000,
 		// 	"preLaunchTask": "Debug Android Build",
         // },
-        {
-            "name": "DesktopGL Debug",
-            "type": "coreclr",
-			"request": "launch",
-			"preLaunchTask": "Debug DesktopGL Build",
-			"program": "${workspaceFolder}/NeonShooter.DesktopGL/bin/Debug/net8.0/NeonShooter.DesktopGL.exe",
-        },
+        // {
+        //     "name": "DesktopGL Debug",
+        //     "type": "coreclr",
+		// 	"request": "launch",
+		// 	"preLaunchTask": "Debug DesktopGL Build",
+		// 	"program": "${workspaceFolder}/NeonShooter.DesktopGL/bin/Debug/net8.0/NeonShooter.DesktopGL.exe",
+        // },
         // {
         //     "name": "iOS Debug",
         //     "type": "maui",
         //     "request": "launch",
         //     "preLaunchTask": "maui: Build",
         // },
-        // {
-        //     "name": "WindowsDX Debug",
-        //     "type": "coreclr",
-		// 	"request": "launch",
-		// 	"preLaunchTask": "Debug WindowsDX Build",
-		// 	"program": "${workspaceFolder}/NeonShooter.WindowsDX/bin/Debug/net8.0-windows/NeonShooter.WindowsDX.exe",
-        // }
+        {
+            "name": "WindowsDX Debug",
+            "type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "Debug WindowsDX Build",
+			"program": "${workspaceFolder}/NeonShooter.WindowsDX/bin/Debug/net8.0-windows/NeonShooter.WindowsDX.exe",
+        }
     ]
 }
